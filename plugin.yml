@@ -1,0 +1,6 @@
+name: SD-Welcome
+version: 1.0.0
+main: SDWelcome\Main
+api: 5.0.0
+author: ShadowDev
+description: A simple plugin to add custom welcome and leave messages.

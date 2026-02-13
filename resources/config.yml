@@ -1,0 +1,13 @@
+---
+# SD-Welcome Configuration
+# Available placeholders: {player}, {prefix}
+
+# Prefix for the plugin messages
+prefix: "§7[§bSD-Welcome§7] §r"
+
+# Message sent to the player when they join
+welcome-message: "§aWelcome to the server, {player}!"
+
+# Message broadcasted when a player leaves
+leave-message: "§c{player} has left the server."
+...
